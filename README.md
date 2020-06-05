@@ -3,6 +3,7 @@ Simple Python3 Script for Brute Force Attack To Web Directories
 
 Requirements:
 requests
+#pip3 install requests
 
 Usage:
 ./Dirbrute.py <target> <wordlist_file> <threads>
