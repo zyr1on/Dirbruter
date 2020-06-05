@@ -5,6 +5,8 @@ Requirements:
 requests
 #pip3 install requests
 
+https://asciinema.org/a/x6v5mhhKb74xbRUAudezfuMZL
+
 Usage:
 ./Dirbrute.py <target> <wordlist_file> <threads>
  ex: ./Dirbrute.py http://127.0.0.1 /usr/share/wordlists/dirb/common.txt 10
