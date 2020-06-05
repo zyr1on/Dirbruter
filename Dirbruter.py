@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #author : İnstagram , Twitter =  @semihozdmirr
-#example usage: python3 Dirbruter.py http://127.0.0.1 /usr/bin/wordlists/dirb/common.txt 10
+#example usage: python3 Dirbruter.py http://www.site.com /usr/bin/wordlists/dirb/common.txt 10
 
 import threading
 import requests
@@ -46,7 +46,7 @@ def main():
 			full = target + "/" + line
 			req = requests.get(full)
 			html = str(req.content)
-			#you can add something here...
+			#you can add or delete something in here...
 			print("\u001b[37;1m " + line ,end="\r ")
 			if "Not Found" in html:
 				pass
