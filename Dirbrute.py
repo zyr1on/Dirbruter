@@ -56,7 +56,7 @@ def main():
 				else:
 					pass
 	except:
-		print("[*] Maybe Connection Refused")
+		print("[*] Maybe Connection Refused or Wrong Url")
 		exit()
 
 for x in range(threads):
