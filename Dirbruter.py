@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 #author : İnstagram , Twitter =  @semihozdmirr
-#example usage: python3 Dirbruter.py http://127.0.0.1 /usr/bin/wordlists/dirb/common.txt 15
+#example usage: python3 Dirbruter.py http://127.0.0.1 /usr/bin/wordlists/dirb/common.txt 10
 
 import threading
 import requests
 import sys
-from datetime import datetime
+import time
 
 
 def banner():
@@ -37,7 +37,7 @@ if not "http" in target:
 	exit()
 wordlist = open(word_file,"r")
 banner()
-print(f"[*] Started  Target:{target}  Wordlist: {word_file}  Threads: {threads}  Time: {datetime.now()} \n")
+print(f"[*] Started  Target:{target}  Wordlist: {word_file}  Threads: {threads}  Time: {time.asctime()} \n")
 print("-"*50)
 def main():
 	try:
