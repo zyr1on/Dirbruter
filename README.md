@@ -14,6 +14,6 @@ Example : <code> python3 Dirbruter.py https://www.site.com /usr/share/wordlists/
 
 You can watch:
 -----------
-<a href="https://asciinema.org/a/x6v5mhhKb74xbRUAudezfuMZL?autoplay=1"><img src="https://asciinema.org/a/x6v5mhhKb74xbRUAudezfuMZL.png" width="836"/></a>
+<a href="https://asciinema.org/a/zuPe6pGHsKC75QjiOS9H6AlgV?autoplay=1"><img src="https://asciinema.org/a/zuPe6pGHsKC75QjiOS9H6AlgV.png" width="836"/></a>
 
 
