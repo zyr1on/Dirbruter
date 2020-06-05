@@ -9,7 +9,7 @@ Simple Python3 Script for Brute Force Attack To Web Directories
 <code> git clone https://github.com/zyr1on/Dirbrute.git </code>
 
 # Usage
-<code> python3 Dirbrute.py <target> <wordlist_file> <threads> </code>
+<code> python3 Dirbrute.py target_url wordlist_file threads </code>
 
 You can watch:
 -----------
