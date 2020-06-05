@@ -5,7 +5,8 @@ Requirements:
 requests
 #pip3 install requests
 
-https://asciinema.org/a/x6v5mhhKb74xbRUAudezfuMZL
+[![asciicast](https://asciinema.org/a/x6v5mhhKb74xbRUAudezfuMZL.png)](https://asciinema.org/a/x6v5mhhKb74xbRUAudezfuMZL)
+
 
 Usage:
 ./Dirbrute.py <target> <wordlist_file> <threads>
