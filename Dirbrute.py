@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#author : @semihozdmirr
+#author : İnstagram , Twitter =  @semihozdmirr
 #example usage: python3 Dirbrute.py http://127.0.0.1 /usr/bin/wordlists/dirb/common.txt 15
 
 import threading
