@@ -19,7 +19,8 @@ def banner():
 	| $$  | $$| $$| $$      | $$  \ $$| $$      | $$  | $$  | $$ /$$| $$_____/| $$      
 	| $$$$$$$/| $$| $$      | $$$$$$$/| $$      |  $$$$$$/  |  $$$$/|  $$$$$$$| $$      
 	|_______/ |__/|__/      |_______/ |__/       \______/    \___/   \_______/|__/      
-        		Author: @semihozdmirr
+        		
+			Author: @semihozdmirr
 			Usage: python3 Dirbrute.py <url> <wordlist> <thread>
 			
         """)
