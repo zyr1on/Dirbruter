@@ -1,8 +1,8 @@
 # Dirbrute
 Simple Python3 Script for Brute Force Attack To Web Directories
 ----------
-Requirements:
-$ pip3 install requests
+• The recommended version for Python 3 is 3.4.x
+
 
 Usage:
 ./Dirbrute.py <target> <wordlist_file> <threads>
